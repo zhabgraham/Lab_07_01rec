@@ -1,0 +1,6 @@
+﻿  Lab_07_01rec.cpp
+C:\uni\labs\Lab_07_01rec\Lab_07_01rec.cpp(90,9): warning C4101: 'i0': unreferenced local variable
+C:\uni\labs\Lab_07_01rec\Lab_07_01rec.cpp(89,9): warning C4101: 'j': unreferenced local variable
+C:\uni\labs\Lab_07_01rec\Lab_07_01rec.cpp(88,9): warning C4101: 'i': unreferenced local variable
+C:\uni\labs\Lab_07_01rec\Lab_07_01rec.cpp(91,9): warning C4101: 'i1': unreferenced local variable
+  Lab_07_01rec.vcxproj -> C:\uni\labs\Lab_07_01rec\x64\Debug\Lab_07_01rec.exe
